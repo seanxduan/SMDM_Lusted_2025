@@ -1,0 +1,1 @@
+Hello! Thanks for visiting my github repo. You will find here the material for my 2025 SMDM Lusted presentation, which consists of an abstract and a poster slide. Additionally, you can find my doctoral dissertation here, of which my SMDM presentation is a subset of! Feel free to reach out at seanxduan@gmail.com if you have any questions.
